@@ -1,0 +1,9 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>30</x><y>100</y><w>150</w><h>220</h></coordinates><panel_attributes>Main
+--
+looping bolean
+lotteri:Lotteri</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>290</x><y>100</y><w>170</w><h>220</h></coordinates><panel_attributes>Lotteri
+--
+List:str
+--
+_init_()
+get_vinst()</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>170</x><y>210</y><w>140</w><h>30</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>120;10;10;10</additional_attributes></element></diagram>
